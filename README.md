@@ -25,4 +25,4 @@ Python · FastAPI · PostgreSQL · pgvector · sentence-transformers · Claude A
 
 ## Project status
 
-Work in progress — built for learning backend + AI system design.
+Work in progress — built for backend + AI system design.
