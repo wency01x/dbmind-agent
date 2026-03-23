@@ -11,7 +11,7 @@ Ask your database questions in plain English.
 
 ## Tech
 
-Python · FastAPI · PostgreSQL · pgvector · sentence-transformers · Claude API
+Python · FastAPI · PostgreSQL · pgvector · sentence-transformers · Gemini API
 
 ## Setup
 
